@@ -1,10 +1,10 @@
 {
   "main.css": "/static/css/main.5037cc74.chunk.css",
-  "main.js": "/static/js/main.59b4df6a.chunk.js",
-  "main.js.map": "/static/js/main.59b4df6a.chunk.js.map",
+  "main.js": "/static/js/main.71b859dd.chunk.js",
+  "main.js.map": "/static/js/main.71b859dd.chunk.js.map",
   "static/css/1.2bbdc110.chunk.css": "/static/css/1.2bbdc110.chunk.css",
-  "static/js/1.91eb0920.chunk.js": "/static/js/1.91eb0920.chunk.js",
-  "static/js/1.91eb0920.chunk.js.map": "/static/js/1.91eb0920.chunk.js.map",
+  "static/js/1.37092f4a.chunk.js": "/static/js/1.37092f4a.chunk.js",
+  "static/js/1.37092f4a.chunk.js.map": "/static/js/1.37092f4a.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/GroovePaper.png": "/static/media/GroovePaper.8c35e1f8.png",
@@ -34,6 +34,6 @@
   "static/css/main.5037cc74.chunk.css.map": "/static/css/main.5037cc74.chunk.css.map",
   "static/css/1.2bbdc110.chunk.css.map": "/static/css/1.2bbdc110.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.bdad75a70a503dd3c9815ecb79480161.js": "/precache-manifest.bdad75a70a503dd3c9815ecb79480161.js",
+  "precache-manifest.c77cc7ab9d016cc43336e0287be71570.js": "/precache-manifest.c77cc7ab9d016cc43336e0287be71570.js",
   "service-worker.js": "/service-worker.js"
 }
